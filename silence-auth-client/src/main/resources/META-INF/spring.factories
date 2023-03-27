@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.silence.auth.client.FilterConfig,\
+com.silence.auth.client.ResourceServerConfig,\
+com.silence.auth.client.TokenConfig

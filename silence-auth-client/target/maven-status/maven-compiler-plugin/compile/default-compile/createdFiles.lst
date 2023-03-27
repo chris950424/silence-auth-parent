@@ -1,0 +1,8 @@
+com\silence\auth\client\ResourceServerConfig.class
+com\silence\auth\client\filter\TokenAuthenticationFilter.class
+com\silence\auth\client\TokenConfig.class
+com\silence\auth\client\properties\SecurityProperties.class
+com\silence\auth\util\EncryptUtil.class
+com\silence\auth\entity\UserDto.class
+com\silence\auth\client\FilterConfig.class
+com\silence\auth\client\EnableAuthStarterConfiguration.class

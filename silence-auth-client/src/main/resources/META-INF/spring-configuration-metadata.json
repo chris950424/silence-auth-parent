@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "mystarter",
+      "type": "com.demo.mystarter.autoconfigure.MyStarterProperties",
+      "sourceType": "com.demo.mystarter.autoconfigure.MyStarterProperties"
+    }
+  ],
+  "properties": [
+  {
+    "name": "mybatis.id",
+    "type": "java.lang.String",
+    "description": "id 信息",
+    "sourceType": "com.demo.mystarter.autoconfigure.MyStarterProperties",
+    "defaultValue": false
+  }],
+  "hints": []
+}
